@@ -1,11 +1,11 @@
 {
 "version":"android-10.0",
-"filename":"DerpFest-10-Community-Onyx-20200821.zip",
-"datetime":1597978334,
-"size":1279234840,
-"url":"https://sourceforge.net/projects/b2n-sprout/files/DerpFest/DerpFest-10-Community-Onyx-20200821.zip/download",
-"filehash":"39163d21b949c680cd5cc9a11858c9f3",
-"id":"2282b53aa73faa4bfd7c70f6883cedf7730bff0c319b2f952c3de8275ae3b96e",
-"whatsNew":"* Build based on latest stable sources\n* Improved system stability\n* User interface enhancements\n* Google Security Patch 2020-08\n* Faceunlock support out of the box\n* Comes with BlackCaps kernel\n* Linux version 4.4.212\n* System blobs based on 4.15C\n* Vendor blobs based on 4.15C\n* Camera blobs based on 4.150\n* Updated fingerprint to August from coral\n* Redumped configurations from 4.15C/D dumps\n* Fixed low volume issues on 6+ (no issues for 7+ , 7.1 & 6.1)\n* Fixed usb tethering\n* Fixed network switch\n* Brought back plenty of network options like before (this really helps different zones/countries to select accordingly to their sim especially Newzealand, Australia , United Kingdom & California)\n* Updated power profile from stock 4.15C (DRG/CTL/PL2) 4.15D (B2N)\n* Updated usb configuration props from stock\n* Updated CarrierConfig from motorola Payton (latest stock rom)\n* Safety net passed out of the box\n* All banking apps will work",
+"filename":"DerpFest-10-Community-Onyx-20200828.zip",
+"datetime":1598633663,
+"size":1306391512,
+"url":"https://sourceforge.net/projects/b2n-sprout/files/DerpFest/DerpFest-10-Community-Onyx-20200828.zip/download",
+"filehash":"a27e5eef0b9f296de66aec37cfc6377d",
+"id":"d67fe66ef320dc7ebb29866569a7a56df56f5d3d27aeed91dcec20d8ce04b51f",
+"whatsNew":"- Build based on latest stable sources\n- Improved system stability\n- User interface enhancements\n- Google Security Patch 2020-08\n- Linux version 4.4.192\n- Compiled using clang-r353983c\n- Ota app UI improvements\n- Enabled Wifi Calling Support",
 "notification":"Sofware update - New DerpFest update"
 }

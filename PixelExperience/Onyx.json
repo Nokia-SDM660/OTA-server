@@ -1,11 +1,11 @@
 {
 "version":"android-10.0",
-"filename":"PixelExperience_Onyx-10.0-20200820-2328-UNOFFICIAL.zip",
-"datetime":1597966072,
-"size":962172834,
-"url":"https://sourceforge.net/projects/b2n-sprout/files/PixelExperience/PixelExperience_Onyx-10.0-20200820-2328-UNOFFICIAL.zip/download",
-"filehash":"2ad1a698eec45118ca5d912897edd9ac",
-"id":"98fb617b4d700a23e0503c4c745c07b144d8e35e0b322b1bfeeedd63e78b56cc",
-"whatsNew":"* Build based on latest stable sources\n* Improved system stability\n* User interface enhancements\n* Google Security Patch 2020-08\n* Faceunlock support out of the box\n* Comes with BlackCaps kernel\n* Linux version 4.4.212\n* System blobs based on 4.15C\n* Vendor blobs based on 4.15C\n* Camera blobs based on 4.150\n* Updated fingerprint to August from coral\n* Redumped configurations from 4.15C/D dumps\n* Fixed low volume issues on 6+ (no issues for 7+ , 7.1 & 6.1)\n* Fixed usb tethering\n* Fixed network switch\n* Brought back plenty of network options like before (this really helps different zones/countries to select accordingly to their sim especially Newzealand, Australia , United Kingdom & California)\n* Updated power profile from stock 4.15C (DRG/CTL/PL2) 4.15D (B2N)\n* Updated usb configuration props from stock\n* Updated CarrierConfig from motorola Payton (latest stock rom)\n* Safety net passed out of the box\n* All banking apps will work",
+"filename":"PixelExperience_Onyx-10.0-20200828-1317-UNOFFICIAL.zip",
+"datetime":1598620608,
+"size":962030521,
+"url":"https://sourceforge.net/projects/b2n-sprout/files/PixelExperience/PixelExperience_Onyx-10.0-20200828-1317-UNOFFICIAL.zip/download",
+"filehash":"0a548a2e4e01f62a52269d1f30718b4a",
+"id":"ec7044f0b198aef4f5cc564c8bcd41f39addd2b8ae75c40acc590f398c77ff5f",
+"whatsNew":"- Build based on latest stable sources\n- Improved system stability\n- User interface enhancements\n- Google Security Patch 2020-08\n- Linux version 4.4.192\n- Compiled using clang-r353983c\n- Ota app UI improvements\n- Enabled Wifi Calling Support",
 "notification":"Sofware update - New PixelExperience update"
 }

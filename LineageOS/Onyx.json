@@ -1,11 +1,11 @@
 {
 "version":"android-10.0",
-"filename":"lineage-17.1-20200820-UNOFFICIAL-Onyx.zip",
-"datetime":1597954823,
-"size":722131478,
-"url":"https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-17.1-20200820-UNOFFICIAL-Onyx.zip/download",
-"filehash":"4c01fb963aa82e215c1104d7500b03ed",
-"id":"4e497be62b6faf332e56197ac1e82bd738ff2df8ad4ae75e8c7b01c733c399d4",
-"whatsNew":"* Build based on latest stable sources\n* Improved system stability\n* User interface enhancements\n* Google Security Patch 2020-08\n* Faceunlock support out of the box\n* Comes with BlackCaps kernel\n* Linux version 4.4.212\n* System blobs based on 4.15C\n* Vendor blobs based on 4.15C\n* Camera blobs based on 4.150\n* Updated fingerprint to August from coral\n* Redumped configurations from 4.15C/D dumps\n* Fixed low volume issues on 6+ (no issues for 7+ , 7.1 & 6.1)\n* Fixed usb tethering\n* Fixed network switch\n* Brought back plenty of network options like before (this really helps different zones/countries to select accordingly to their sim especially Newzealand, Australia , United Kingdom & California)\n* Updated power profile from stock 4.15C (DRG/CTL/PL2) 4.15D (B2N)\n* Updated usb configuration props from stock\n* Updated CarrierConfig from motorola Payton (latest stock rom)\n* Safety net passed out of the box\n* All banking apps will work",
+"filename":"lineage-17.1-20200828-UNOFFICIAL-Onyx.zip",
+"datetime":1598608207,
+"size":722100872,
+"url":"https://sourceforge.net/projects/b2n-sprout/files/LineageOS/lineage-17.1-20200828-UNOFFICIAL-Onyx.zip/download",
+"filehash":"c7c84f392a491eb1d2f4de61a786fd2f",
+"id":"0857e6da21be987debd3e8485b587545f89494c27a8a0e5484c50d51930dc5ed",
+"whatsNew":"- Build based on latest stable sources\n- Improved system stability\n- User interface enhancements\n- Google Security Patch 2020-08\n- Linux version 4.4.192\n- Compiled using clang-r353983c\n- Ota app UI improvements\n- Enabled Wifi Calling Support",
 "notification":"Sofware update - New LineageOS update"
 }
