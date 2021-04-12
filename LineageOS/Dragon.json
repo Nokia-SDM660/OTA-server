@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"lineage-18.1-20210410-UNOFFICIAL-Dragon.zip",
-"datetime":1598601905,
-"size":725077305,
-"url":"http://18.188.31.159:3000/roms/lineage-18.1-20210410-UNOFFICIAL-Dragon.zip",
-"filehash":"3ec7b4a257c21f9aaa3e9a5917bcb103",
-"id":"6faa836636f3aede16e677851a1587ea4c0e04a735d356996285e916723ea906",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04\n- Test build (1/2)",
+"filename":"lineage-18.1-20210412-UNOFFICIAL-Dragon.zip",
+"datetime":1618240705,
+"size":725188177,
+"url":"http://18.188.31.159:3000/roms/lineage-18.1-20210412-UNOFFICIAL-Dragon.zip",
+"filehash":"6fe94dbf17186c2c3a83e4127ef2cd90",
+"id":"381237c0d344c9bdef3584d2f729e8fe88aaaec3e355248fd574013fd2268cf2",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
 "notification":"Sofware update - New LineageOS update"
 }
