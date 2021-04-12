@@ -1,11 +1,11 @@
 {
-"version":"android-10.0",
-"filename":"lineage-17.1-20200828-UNOFFICIAL-Dragon.zip",
+"version":"android-11.0",
+"filename":"lineage-18.1-20210410-UNOFFICIAL-Dragon.zip",
 "datetime":1598601905,
-"size":722985910,
-"url":"https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-17.1-20200828-UNOFFICIAL-Dragon.zip/download",
-"filehash":"17cfd4d126155f0a02becc89659905c7",
-"id":"2b84642b7d0a8159e2f47476cb267269262cd637644c6d1a8fbece6f800fc911",
-"whatsNew":"- Build based on latest stable sources\n- Improved system stability\n- User interface enhancements\n- Google Security Patch 2020-08\n- Linux version 4.4.192\n- Compiled using clang-r353983c\n- Ota app UI improvements\n- Enabled Wifi Calling Support",
+"size":725077305,
+"url":"http://18.188.31.159:3000/roms/lineage-18.1-20210410-UNOFFICIAL-Dragon.zip",
+"filehash":"3ec7b4a257c21f9aaa3e9a5917bcb103",
+"id":"6faa836636f3aede16e677851a1587ea4c0e04a735d356996285e916723ea906",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04\n- Test build (1/2)",
 "notification":"Sofware update - New LineageOS update"
 }
