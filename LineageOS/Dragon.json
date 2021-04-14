@@ -1,1 +1,11 @@
-*
+{
+"version":"android-11.0",
+"filename":"lineage-18.1-20210413-UNOFFICIAL-Dragon.zip",
+"datetime":1618345320,
+"size":725201887,
+"url":"",
+"filehash":"0c724dfe64355500c5e2af4443c53d02",
+"id":"6b229360602a35b061bb6f442840a4f75aa9b438e461251da77c60ca909a81bd",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
+"notification":"Sofware update - New LineageOS update"
+}

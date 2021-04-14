@@ -1,1 +1,11 @@
-*
+{
+"version":"android-11.0",
+"filename":"lineage-18.1-20210413-UNOFFICIAL-Onyx.zip",
+"datetime":1618352617,
+"size":725831253,
+"url":"",
+"filehash":"59716cb72c4065becbb6e85987fdb525",
+"id":"770fa9c1207dd2c5ea0b3e5252ba546c0241414928d81ea1b8920a170396a875",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
+"notification":"Sofware update - New LineageOS update"
+}
