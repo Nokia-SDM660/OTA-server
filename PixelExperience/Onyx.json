@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"PixelExperience_Onyx-11.0-20210415-1706-UNOFFICIAL.zip",
-"datetime":1618506293,
-"size":1253777950,
+"filename":"PixelExperience_Onyx-11.0-20210416-0856-UNOFFICIAL.zip",
+"datetime":1618563321,
+"size":1253739194,
 "url":"",
-"filehash":"fef3320434b70e864abf187c78b73498",
-"id":"28b16b76dfdf31672aaab92c71eaf2d9996f4c9ccf6fd21c7a66305c25ca666b",
+"filehash":"a5a9ec9fa1260209413810302be05d06",
+"id":"74727c22e871dd5e2f9d2cea47cc4b2f387e4769dc7e27e921b6865e68eeaab8",
 "whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
 "notification":"Sofware update - New PixelExperience update"
 }
