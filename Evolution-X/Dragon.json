@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"EvolutionX_5.6_Dragon-11-20210416-1456-UNOFFICIAL.zip",
-"datetime":1618584922,
-"size":1481074738,
-"url":"",
-"filehash":"f0406c29581d0e26e1de877cfd45cf5d",
-"id":"5693517f5005406259f52c390a37cafa955b6721fbf69b84d0ab78a038285fc7",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
-"notification":"Sofware update - New Evolution-x update"
+"filename":"EvolutionX_5.7_Dragon-11-20210511-1016-UNOFFICIAL.zip",
+"datetime":1620728084,
+"size":1514039833,
+"url":"http://3.237.12.129:3000/roms/EvolutionX_5.7_Dragon-11-20210511-1016-UNOFFICIAL.zip",
+"filehash":"6133f43d36395b7d0ad4498d35db194b",
+"id":"534ae7d74875e0ff197527dc35e290f1840c157c12a651884c3a1d1febe2424a",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-05",
+"notification":"Security Maintenance Release"
 }
