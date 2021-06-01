@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"dotOS-R-v5.0.1-Dragon-UNOFFICIAL-20210414-1707.zip",
-"datetime":1618419974,
-"size":1068734571,
-"url":"",
-"filehash":"0fc70fbdfdc0364858eca073d76cd239",
-"id":"1556e4f36a900eb7c8ff94b84161faa24ac600ec2739dda97a8a45bde37646b3",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
-"notification":"Sofware update - New DotOS update"
+"filename":"dotOS-R-v5.1-Dragon-UNOFFICIAL-20210601-1159.zip",
+"datetime":1622548691,
+"size":1122939085,
+"url":"http://18.218.5.213:3000/roms/dotOS-R-v5.1-Dragon-UNOFFICIAL-20210601-1159.zip",
+"filehash":"267fc8f466bcec853568c87658d7a4e4",
+"id":"51e04143bbbd4a0493e07852e4a46a4847dcd1de1f9a557796c07087a818816e",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-05\n- fixed media playback issues\n- fixed DRM issues\n- fixed Google camera not recording audio during video recording\n- fixed 3rd party apps getting crashed while playing videos ( example whatsapp status & instagram videos )",
+"notification":"New DotOS 5.1 update"
 }
