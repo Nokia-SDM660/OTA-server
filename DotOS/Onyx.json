@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"dotOS-R-v5.0.1-Onyx-UNOFFICIAL-20210414-1913.zip",
-"datetime":1618427537,
-"size":1068962953,
-"url":"",
-"filehash":"a67d42514ec1b6576bf3f635ae961ff9",
-"id":"801bd56d10966724a41106594b6551073b7b71d39085fc5ea49aa7e2705d70fd",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
-"notification":"Sofware update - New DotOS update"
+"filename":"dotOS-R-v5.1-Onyx-UNOFFICIAL-20210601-1501.zip",
+"datetime":1622559610,
+"size":1123577560,
+"url":"http://18.218.5.213:3000/roms/dotOS-R-v5.1-Onyx-UNOFFICIAL-20210601-1501.zip",
+"filehash":"864756834c1dd25027d513b20682b9de",
+"id":"1f02cd771f41253786454e6980a0c8405304da75327467a633ed1774f9091ab9",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-05\n- fixed media playback issues\n- fixed DRM issues\n- fixed Google camera not recording audio during video recording\n- fixed 3rd party apps getting crashed while playing videos ( example whatsapp status & instagram videos )",
+"notification":"New DotOS 5.1 update"
 }
