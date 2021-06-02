@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"dotOS-R-v5.0.1-Crystal-UNOFFICIAL-20210414-2119.zip",
-"datetime":1618435110,
-"size":1069264179,
-"url":"",
-"filehash":"d3238043007fd6bbf5dc6550ef5a328c",
-"id":"ed2c8af9eee5e64d929be77b6156da8f120b92e0de532ff2d39ff2b978cc0dd7",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
-"notification":"Sofware update - New DotOS update"
+"filename":"dotOS-R-v5.1-Crystal-UNOFFICIAL-20210601-1720.zip",
+"datetime":1622567926,
+"size":1123793678,
+"url":"http://18.218.5.213:3000/roms/dotOS-R-v5.1-Crystal-UNOFFICIAL-20210601-1720.zip",
+"filehash":"74a45ceeecc37ccf128e46bf2146b6d4",
+"id":"f8d0f4b4175641ff6bcd58ab7d0398ae0af233a933aa41077f1bf64b91367ddc",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-05\n- fixed media playback issues\n- fixed DRM issues\n- fixed Google camera not recording audio during video recording\n- fixed 3rd party apps getting crashed while playing videos ( example whatsapp status & instagram videos )",
+"notification":"New DotOS 5.1 update"
 }
