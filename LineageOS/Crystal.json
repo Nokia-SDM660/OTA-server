@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"lineage-18.1-20210414-UNOFFICIAL-Crystal.zip",
-"datetime":1618359826,
-"size":725939987,
-"url":"",
-"filehash":"0f37655c571a61f7450944318a21335f",
-"id":"f10009ecc729bdde6f700f5ff7b76d058aecdc26c948a34c271d18a0b4ce93ca",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
-"notification":"Sofware update - New LineageOS update"
+"filename":"lineage-18.1-20210603-UNOFFICIAL-Crystal.zip",
+"datetime":1622728308,
+"size":725768121,
+"url":"https://sourceforge.net/projects/ctl-sprout/files/LineageOS/lineage-18.1-20210603-UNOFFICIAL-Crystal.zip/download",
+"filehash":"b69323722b4cd8be3d1ec604f6bb084a",
+"id":"8855b98a0f84ba2a1d3196bdc6c0b656e321421490e9a251cdd570a3d06e05b1",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-05\n- fixed media playback issues\n- fixed DRM issues\n- fixed Google camera not recording audio during video recording\n- fixed 3rd party apps getting crashed while playing videos ( example whatsapp status & instagram videos )",
+"notification":"New LineageOS update"
 }
