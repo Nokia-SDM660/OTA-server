@@ -1,11 +1,11 @@
 {
 "version":"android-11.0",
-"filename":"lineage-18.1-20210413-UNOFFICIAL-Dragon.zip",
-"datetime":1618345320,
-"size":725201887,
-"url":"",
-"filehash":"0c724dfe64355500c5e2af4443c53d02",
-"id":"6b229360602a35b061bb6f442840a4f75aa9b438e461251da77c60ca909a81bd",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-04",
-"notification":"Sofware update - New LineageOS update"
+"filename":"lineage-18.1-20210603-UNOFFICIAL-Dragon.zip",
+"datetime":1622712847,
+"size":724975064,
+"url":"https://sourceforge.net/projects/drg-sprout/files/LineageOS/lineage-18.1-20210603-UNOFFICIAL-Dragon.zip/download",
+"filehash":"a1a2bde232bfdc8c002847913d9fef6f",
+"id":"7b8f335eb6f9184bd6b6965c6e5c87f67a1c74042554c9e3dd6a0a4f4a6258b8",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-05\n- fixed media playback issues\n- fixed DRM issues\n- fixed Google camera not recording audio during video recording\n- fixed 3rd party apps getting crashed while playing videos ( example whatsapp status & instagram videos )",
+"notification":"New LineageOS update"
 }
