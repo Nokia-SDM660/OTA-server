@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Dragon-12.0-11151812.zip",
-"datetime":1636999746,
-"size":740820429,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Dragon-12.0-11151812.zip",
-"filehash":"800a74baeddce81ddcd7abf54f9738d9",
-"id":"a9e8fdb3113072483bd76e7954850040910b5610708f0713de6e47335be4c8ef",
+"filename":"HMD-AOSP_Dragon-12.0-11161507.zip",
+"datetime":1637075073,
+"size":741492416,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Dragon-12.0-11161507.zip",
+"filehash":"b4e8d4186b5e1903dcef733f2f23844f",
+"id":"51d54267dde8e4501d35b1347aa19f8b1510df47fffaf10c9f695cf383fe3458",
 "whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-11",
 "notification":"New Android 12.0 Update"
 }
