@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Onyx-12.0-11212325.zip",
-"datetime":1637533405,
-"size":1314127480,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Onyx-12.0-11212325.zip",
-"filehash":"335fc135031a6390c1db5b272ae0ab31",
-"id":"6524162bf20762e15ebd1f2ae6e9d744dd30ba0c6eb260980244febdcbbcd5ca",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-11\n- built-in Google Camera Support\n- built-in Google apps\n- initiated OTA support\n- merged bpf backport patches\n- compiled using clang-12.0.7\n- fixed drm issue on Amazon and Netflix\n- fixed video playback Issues on 3rd party apps\n- fixed screenrecoder issues with internal audio & speaker\n- fixed ui glitches and lag while playing screen recorded videos\n- fixed system ui crash\n- added monet support\n- updated props to Pixel 6 Pro\n- fixed privileged apps to access screenshot service\n- fixed external storage detection in default file manager\n- subdivided wifi and mobile data QS tiles\n- fixed media projection crash\n- added app signature spoofing\n- fixed Dual SIM switch for Mobile data\n- built with Google Sans font\n- merged pixel 6 pro overlays\n- fixed Google camera unable to record videos with audio\n- fixed bluetooth on november security patch\n- updated radio blobs from Raven ( Pixel 6 Pro )\n- Updated build fingerprint to Pixel 6 pro for latest gimmicks\n- safety net pass by default",
+"filename":"HMD-AOSP_Onyx-12.0-20211215-0832.zip",
+"datetime":1639572388,
+"size":1258075087,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Onyx-12.0-20211215-0832.zip",
+"filehash":"968334730d81a7dd047b120e4a06c7a9",
+"id":"7d48f86b68157eed51aada0bba6d36314d18622e49733ed56259e34e60022b0f",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-12",
 "notification":"New Android 12.0 Update"
 }
