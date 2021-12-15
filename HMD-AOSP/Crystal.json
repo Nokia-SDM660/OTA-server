@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Crystal-12.0-11220034.zip",
-"datetime":1637537553,
-"size":1314619388,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Crystal-12.0-11220034.zip",
-"filehash":"a8a776c0554fd2f0479871228fdca0f4",
-"id":"e1feb1036ff5a71f1bbab75efbdb462d6a9e00531200d3e59aebd6c9f84ccdbf",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-11\n- built-in Google Camera Support\n- built-in Google apps\n- initiated OTA support\n- merged bpf backport patches\n- compiled using clang-12.0.7\n- fixed drm issue on Amazon and Netflix\n- fixed video playback Issues on 3rd party apps\n- fixed screenrecoder issues with internal audio & speaker\n- fixed ui glitches and lag while playing screen recorded videos\n- fixed system ui crash\n- added monet support\n- updated props to Pixel 6 Pro\n- fixed privileged apps to access screenshot service\n- fixed external storage detection in default file manager\n- subdivided wifi and mobile data QS tiles\n- fixed media projection crash\n- added app signature spoofing\n- fixed Dual SIM switch for Mobile data\n- built with Google Sans font\n- merged pixel 6 pro overlays\n- fixed Google camera unable to record videos with audio\n- fixed bluetooth on november security patch\n- updated radio blobs from Raven ( Pixel 6 Pro )\n- Updated build fingerprint to Pixel 6 pro for latest gimmicks\n- safety net pass by default",
+"filename":"HMD-AOSP_Crystal-12.0-20211215-0832.zip",
+"datetime":1639576591,
+"size":1258481981,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Crystal-12.0-20211215-0832.zip",
+"filehash":"f4948702c6b50c40f01c0c40f0034260",
+"id":"1898317d97d70037e650fccce348c075fce8711d91e2422a232a2cba3c1ca62d",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-12",
 "notification":"New Android 12.0 Update"
 }
