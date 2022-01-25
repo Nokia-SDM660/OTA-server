@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Plate2-12.0-20211215-0832.zip",
-"datetime":1639580801,
-"size":1255525291,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Plate2-12.0-20211215-0832.zip",
-"filehash":"49d609ca4449d8863ca1787168f05335",
-"id":"8d4e17b0c9fce0aafc65af5097fb5b34c97acf95c2b7aec9a623de9256799e0a",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-12",
-"notification":"New Android 12.0 Update"
+"filename":"PixelExperience_Plate2-12.0-20220124-0210-UNOFFICIAL.zip",
+"datetime":1642989934,
+"size":1382736839,
+"url":"http://3.137.141.6:3000/roms/PixelExperience_Plate2-12.0-20220124-0210-UNOFFICIAL.zip",
+"filehash":"2ded0ae0557a50b8d47b2285f60be8a3",
+"id":"96c633022f1172b132d1cb363e03101ec6b2d0b0b8690882faeb4e6cd0f73a4c",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-01",
+"notification":"New Pixel-Experience Update"
 }

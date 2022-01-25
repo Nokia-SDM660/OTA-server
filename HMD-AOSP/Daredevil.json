@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Daredevil-12.0-20211215-0832.zip",
-"datetime":1639585287,
-"size":1379490246,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Daredevil-12.0-20211215-0832.zip",
-"filehash":"efb495bf28e39cb2cfe587eff52d3833",
-"id":"cf25a3e760249a25b967bdc8f3b1b24e9c879655b27c3649e0aa9c68704cc76b",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-12",
-"notification":"New Android 12.0 Update"
+"filename":"PixelExperience_Daredevil-12.0-20220125-0646-UNOFFICIAL.zip",
+"datetime":1643092946,
+"size":1371282569,
+"url":"http://3.137.141.6:3000/roms/PixelExperience_Daredevil-12.0-20220125-0646-UNOFFICIAL.zip",
+"filehash":"342de3f260520f0a7305bfe55d9c59d3",
+"id":"206fe4bfe87c220a8b869dc19d2ebf3401460892168cc89f2d5d631ebffe993c",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-01",
+"notification":"New Pixel-Experience Update"
 }
