@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Onyx-12.0-20211215-0832.zip",
-"datetime":1639572388,
-"size":1258075087,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Onyx-12.0-20211215-0832.zip",
-"filehash":"968334730d81a7dd047b120e4a06c7a9",
-"id":"7d48f86b68157eed51aada0bba6d36314d18622e49733ed56259e34e60022b0f",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2021-12",
-"notification":"New Android 12.0 Update"
+"filename":"PixelExperience_Onyx-12.0-20220128-0243-UNOFFICIAL.zip",
+"datetime":1643337538,
+"size":1350853607,
+"url":"http://3.137.141.6:3000/roms/PixelExperience_Onyx-12.0-20220128-0243-UNOFFICIAL.zip",
+"filehash":"b159b17aab478a2c7878c6f8f192d888",
+"id":"013512d60eb722566c05c152a2e5e9bcfe4e8b4a6319ae57ad18e31cf80d9791",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-01",
+"notification":"New PixelExperience Update"
 }
