@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"PixelExperience_Starlord-12.0-20220128-1945-UNOFFICIAL.zip",
-"datetime":1643398646,
-"size":1424784817,
-"url":"http://3.137.141.6:3000/roms/PixelExperience_Starlord-12.0-20220128-1945-UNOFFICIAL.zip",
-"filehash":"da836f36f4a2ecb0a79ff14e2697226a",
-"id":"3390ad777ef7d59e0b8f9e12a4d37a4f100480b3e1966b3c45d922e892c7e557",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-01",
-"notification":"New PixelExperience Update"
+"filename":"HMD-AOSP_Starlord-12.0-20220209-0834.zip",
+"datetime":1644428489,
+"size":1379044573,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Starlord-12.0-20220209-0834.zip",
+"filehash":"3145da506f5e84afe5f30e3b5189d5c3",
+"id":"772f4c786b37a21273f4a3bf2efde3bff37a824d0bb09ba49ce8772e3a0014b2",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-02",
+"notification":"New Android 12.0 Update"
 }

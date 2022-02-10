@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"PixelExperience_Dragon-12.0-20220127-2242-UNOFFICIAL.zip",
-"datetime":1643323046,
-"size":1351005240,
-"url":"http://3.137.141.6:3000/roms/PixelExperience_Dragon-12.0-20220127-2242-UNOFFICIAL.zip",
-"filehash":"f1eb8a559e0901b1091621abab02ae21",
-"id":"b58331d1ab070761d70fde9996c4d94dc166dc3f7a9743d5b5122202963ebdd0",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-01",
-"notification":"New PixelExperience Update"
+"filename":"HMD-AOSP_Dragon-12.0-20220209-0834.zip",
+"datetime":1644396954,
+"size":1258233031,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Dragon-12.0-20220209-0834.zip",
+"filehash":"76d3226888f52a5193ebfc08d6e3b262",
+"id":"21697df282343fd90a212d6f6166db94784f37e2965c292d5dc85db70c8924cc",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-02",
+"notification":"New Android 12.0 Update"
 }
