@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Plate2-12.0-20220209-0834.zip",
-"datetime":1644419558,
-"size":1255522257,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Plate2-12.0-20220209-0834.zip",
-"filehash":"901f297481b25746a27e0a460de0d019",
-"id":"9032364ebb4d051183de39021b19045460fabab377ff46efdc2b39bec6025022",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-02",
-"notification":"New Android 12.0 Update"
+"filename":"HMD-AOSP_Plate2-12.1.0-20220326-0456.zip",
+"datetime":1648294643,
+"size":1206499094,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Plate2-12.1.0-20220326-0456.zip",
+"filehash":"94b8eee6d7f52ff2324b93ad095ae5e3",
+"id":"d40942701dc0c67b63c2bf432881fc31b29bce6356b3245b8d16a3166f7426cf",
+"whatsNew":"- Initial Android 12L build\n- Based on android-12.1.0_r2\n- Google security patch 2022-03\n- Improved system stability\n- User interface enhancements\n- Vendor based on vndk-32\n- Google apps restricted to basic & based on Pixel 6 pro\n- Safety net pass by default\n- Updated to Pixel 6 Pro latest build fingerprint\n- Updated GoogleSans font from latest Pixel 6 pro firmware\n- Updated overlays from Latest Pixel 6 pro firmware\n- Ported Nexus launcher from Pixel 6 pro latest firmware\n- Material You officially implemented by Google\n- Build signed with private keys\n- BPF backport not implemented yet (which is no use for now)\n",
+"notification":"New Android 12.1.0 Update"
 }
