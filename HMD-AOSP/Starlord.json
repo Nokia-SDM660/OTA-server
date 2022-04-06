@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Starlord-12.1.0-20220326-0456.zip",
-"datetime":1648304191,
-"size":1341716694,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Starlord-12.1.0-20220326-0456.zip",
-"filehash":"7b0c51d0acde9de248a407db2c39538e",
-"id":"b405488807d1cb5f27f520a04994daeb1e1bbbe814fb01c4f5d55984530d5a18",
-"whatsNew":"- Initial Android 12L build\n- Based on android-12.1.0_r2\n- Google security patch 2022-03\n- Improved system stability\n- User interface enhancements\n- Vendor based on vndk-32\n- Google apps restricted to basic & based on Pixel 6 pro\n- Safety net pass by default\n- Updated to Pixel 6 Pro latest build fingerprint\n- Updated GoogleSans font from latest Pixel 6 pro firmware\n- Updated overlays from Latest Pixel 6 pro firmware\n- Ported Nexus launcher from Pixel 6 pro latest firmware\n- Material You officially implemented by Google\n- Build signed with private keys\n- BPF backport not implemented yet (which is no use for now)\n",
+"filename":"HMD-AOSP_Starlord-12.1.0-20220405-0704.zip",
+"datetime":1649176059,
+"size":1341675754,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Starlord-12.1.0-20220405-0704.zip",
+"filehash":"d921b11931922ed6d2953aef87521412",
+"id":"dfefd758c7ef0eedac252e61478406c8f7afeaa88b097e2e518e7c590140ff3a",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-04",
 "notification":"New Android 12.1.0 Update"
 }

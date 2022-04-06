@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"HMD-AOSP_Dragon-12.1.0-20220326-0456.zip",
-"datetime":1648271851,
-"size":1208606960,
-"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Dragon-12.1.0-20220326-0456.zip",
-"filehash":"24d44a03f81adcf64d92544159dbd7e2",
-"id":"570f211ac16b2446a52b986c9450c57c01910ce9f4259cd4bdb11bc2989634e0",
-"whatsNew":"- Initial Android 12L build\n- Based on android-12.1.0_r2\n- Google security patch 2022-03\n- Improved system stability\n- User interface enhancements\n- Vendor based on vndk-32\n- Google apps restricted to basic & based on Pixel 6 pro\n- Safety net pass by default\n- Updated to Pixel 6 Pro latest build fingerprint\n- Updated GoogleSans font from latest Pixel 6 pro firmware\n- Updated overlays from Latest Pixel 6 pro firmware\n- Ported Nexus launcher from Pixel 6 pro latest firmware\n- Material You officially implemented by Google\n- Build signed with private keys\n- BPF backport not implemented yet (which is no use for now)\n",
+"filename":"HMD-AOSP_Dragon-12.1.0-20220405-0704.zip",
+"datetime":1649143490,
+"size":1208618610,
+"url":"http://3.137.141.6:3000/roms/HMD-AOSP_Dragon-12.1.0-20220405-0704.zip",
+"filehash":"081f6e0e016442e92066a1f545db5d1a",
+"id":"e61e12470cc3d107e185ce5e89f4529b74363829898eee8c2a1e411f737f91e3",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-04",
 "notification":"New Android 12.1.0 Update"
 }
