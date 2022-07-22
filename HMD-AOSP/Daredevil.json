@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"PixelExperience_Daredevil-12.1-20220623-1806-UNOFFICIAL.zip",
-"datetime":1656007445,
-"size":1396632313,
-"url":"http://13.59.71.161:3000/roms/PixelExperience_Daredevil-12.1-20220623-1806-UNOFFICIAL.zip",
-"filehash":"27169ba743e5f43777676922a96c3a0e",
-"id":"2d9133207c1820b4902e966629c1f77a0b4930cf8d9c4a944761af21e596687b",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-06",
+"filename":"PixelExperience_Daredevil-12.1-20220722-0014-UNOFFICIAL.zip",
+"datetime":1658448270,
+"size":1426927797,
+"url":"http://13.59.71.161:3000/roms/PixelExperience_Daredevil-12.1-20220722-0014-UNOFFICIAL.zip",
+"filehash":"5cb03ef6445da047a633c7c8fd6c4971",
+"id":"e4f2bcd23c920a39e334a8c80b4f8c697955e00492ab366267f8be023a11529f",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-07",
 "notification":"New PixelExperience Update"
 }

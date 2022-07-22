@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"PixelExperience_Dragon-12.1-20220623-0332-UNOFFICIAL.zip",
-"datetime":1655954624,
-"size":1323914100,
-"url":"http://13.59.71.161:3000/roms/PixelExperience_Dragon-12.1-20220623-0332-UNOFFICIAL.zip",
-"filehash":"c1c63de18bfea4e2c515fb3e8cafbf6d",
-"id":"3420f78e261ec4938f1d423d1e811d7e9f81ec56012b851c5858a36165ee3f3e",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-06",
+"filename":"PixelExperience_Dragon-12.1-20220721-1846-UNOFFICIAL.zip",
+"datetime":1658429102,
+"size":1379599644,
+"url":"http://13.59.71.161:3000/roms/PixelExperience_Dragon-12.1-20220721-1846-UNOFFICIAL.zip",
+"filehash":"0be80ee112bc5c9b36d615f57a5b3722",
+"id":"7a7175ad90a888a1d82b4854f99127918376fa625b683aaa10dc5e0da2bf4674",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-07",
 "notification":"New PixelExperience Update"
 }
