@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"PixelExperience_Onyx-12.1-20220721-2049-UNOFFICIAL.zip",
-"datetime":1658436165,
-"size":1380573050,
-"url":"http://13.59.71.161:3000/roms/PixelExperience_Onyx-12.1-20220721-2049-UNOFFICIAL.zip",
-"filehash":"1c270e52271ac076474bbc7176265be8",
-"id":"3b3304962e3d6891e23aceb994cc46802264bbfd641f132fc6a35edefc87d311",
+"filename":"PixelExperience_Onyx-12.1-20220724-1310-UNOFFICIAL.zip",
+"datetime":1658668082,
+"size":1336058768,
+"url":"http://13.59.71.161:3000/roms/PixelExperience_Onyx-12.1-20220724-1310-UNOFFICIAL.zip",
+"filehash":"c4dca86d69eac16727d38d9cbd52fd61",
+"id":"6995cacc73a3526c3821c66c4537e03e2149fa097fff5d0a14cf4ca0c28a3d10",
 "whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-07",
 "notification":"New PixelExperience Update"
 }

@@ -1,11 +1,11 @@
 {
 "version":"android-12.0",
-"filename":"PixelExperience_Plate2-12.1-20220721-2306-UNOFFICIAL.zip",
-"datetime":1658444174,
-"size":1378105092,
-"url":"http://13.59.71.161:3000/roms/PixelExperience_Plate2-12.1-20220721-2306-UNOFFICIAL.zip",
-"filehash":"1cff1becdd761b6e68f5ebef7921371e",
-"id":"b4e57f8661fb32fd690616799a2fb3dbe222d2c58bc9d45585dfcfce1406f498",
+"filename":"PixelExperience_Plate2-12.1-20220724-1545-UNOFFICIAL.zip",
+"datetime":1658676910,
+"size":1333535663,
+"url":"http://13.59.71.161:3000/roms/PixelExperience_Plate2-12.1-20220724-1545-UNOFFICIAL.zip",
+"filehash":"ca24df6996b9a749043ba66d52081a04",
+"id":"4e814c5da1b0163bd9d4b59b0a8c4e2b482de36e2e9c8754dcc1488423415d41",
 "whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-07",
 "notification":"New PixelExperience Update"
 }
