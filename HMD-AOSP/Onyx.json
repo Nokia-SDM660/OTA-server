@@ -1,0 +1,11 @@
+{
+"version":"android-13.0",
+"filename":"HMD-AOSP_Onyx-13.0-20220903-1753.zip",
+"datetime":1662236960,
+"size":1199781736,
+"url":"http://3.137.137.243:3000/roms/HMD-AOSP_Onyx-13.0-20220903-1753.zip",
+"filehash":"711cb8103f2602e9b6c4c876c9ec0a80",
+"id":"42d2fb8665bdec42cf3a71f5eff81e9afe5e9c7f0b6e3a2318b16fe1555df095",
+"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-08",
+"notification":"New GovernorOS Update"
+}
