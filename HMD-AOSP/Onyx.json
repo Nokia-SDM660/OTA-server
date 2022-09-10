@@ -1,11 +1,11 @@
 {
 "version":"android-13.0",
-"filename":"HMD-AOSP_Onyx-13.0-20220903-1753.zip",
-"datetime":1662236960,
-"size":1199781736,
-"url":"http://3.137.137.243:3000/roms/HMD-AOSP_Onyx-13.0-20220903-1753.zip",
-"filehash":"711cb8103f2602e9b6c4c876c9ec0a80",
-"id":"42d2fb8665bdec42cf3a71f5eff81e9afe5e9c7f0b6e3a2318b16fe1555df095",
-"whatsNew":"- Improved system stability\n- User interface enhancements\n- Google Security Patch 2022-08",
-"notification":"New GovernorOS Update"
+"filename":"Arrow-v13.0-Onyx-UNOFFICIAL-20220909-GAPPS.zip",
+"datetime":1662756744,
+"size":1130505688,
+"url":"http://3.137.137.243:3000/roms/Arrow-v13.0-Onyx-UNOFFICIAL-20220909-GAPPS.zip",
+"filehash":"83828405106e8a9d32c30013e8ce73a0",
+"id":"81fa317402e81a4b05e7e19898a3f16f752d3fa97b211c29a24ee6581e28f1c0",
+"whatsNew":"- Merged to Arrow OS\n- fixed screenshot bug\n- fixed QR code scan bug\n- fixed network bug\n- upgraded google camera app\n- fixed photos capture save bug\n- integrated Always on display\n- fixed safety net\n- if you identify camera app lag then please switch to front camera and switch to back camera\n- fixed google backup & restore\n- fixed system ui crash on lock screen\n- fixed google contacts sync",
+"notification":"New ArrowOS update available"
 }
